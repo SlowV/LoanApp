@@ -2,38 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8a8c7acc-dc11-4895-8d7c-74172b7cb447" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/public/img/bg-content.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/img/favicon.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/img/loading.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/img/nav.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/img/options.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/img/shadow.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/img/slide1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/img/slide2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/img/slide3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/img/slide4.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/img/slide5.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/img/slide6.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/img/slide7.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/js/myJs.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/js/resources/js/app.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/js/resources/js/bootstrap.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/js/resources/js/components/ExampleComponent.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/js/resources/lang/en/auth.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/js/resources/lang/en/pagination.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/js/resources/lang/en/passwords.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/js/resources/lang/en/validation.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/js/resources/sass/_variables.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/js/resources/sass/app.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/js/resources/views/welcome.blade.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/js/slideBox.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/media/CoDuocKhongEm-ChiDan-4820683.mp3" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../HoaiAnhApp/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../HoaiAnhApp/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../HoaiAnhApp/resources/views/welcome.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/../HoaiAnhApp/resources/views/welcome.blade.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/LoanApp.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/LoanApp.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/welcome.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/welcome.blade.php" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -88,8 +58,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/resources/views/welcome.blade.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-34">
-              <caret line="725" column="52" selection-start-line="725" selection-start-column="52" selection-end-line="725" selection-end-column="52" />
+            <state relative-caret-position="-216">
+              <caret line="505" column="40" selection-start-line="505" selection-start-column="40" selection-end-line="505" selection-end-column="40" />
               <folding>
                 <element signature="n#style#0;n#embed#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
               </folding>
@@ -313,24 +283,23 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1540033082066</updated>
-      <workItem from="1540033083608" duration="7769000" />
+      <workItem from="1540033083608" duration="8029000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="7769000" />
+    <option name="totallyTimeSpent" value="8029000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="754" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info id="Favorites" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24962178" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24962178" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="bottom" id="Terminal" weight="0.32850242" />
+      <window_info active="true" anchor="bottom" id="Terminal" visible="true" weight="0.32850242" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
@@ -380,8 +349,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/resources/views/welcome.blade.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-34">
-          <caret line="725" column="52" selection-start-line="725" selection-start-column="52" selection-end-line="725" selection-end-column="52" />
+        <state relative-caret-position="-216">
+          <caret line="505" column="40" selection-start-line="505" selection-start-column="40" selection-end-line="505" selection-end-column="40" />
           <folding>
             <element signature="n#style#0;n#embed#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
